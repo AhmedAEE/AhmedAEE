@@ -3,6 +3,12 @@
 1- The second task, On/Off pushbutton https://www.tinkercad.com/things/eiG1Y1oObx0-ingenious-snaget-duup/editel?sharecode=ZImJwIp9QlLH1nJvPtia8FfTh-gTaUjMDfsFL69g7_4
 The led will turn on when we push the button, and the led will turn off when we push the button again
 
+2 - week four task
+  - Digital circuit: the circuit is 0/1 input to a led, if the butten pressed the led will turn on and the vice verse
+    https://www.tinkercad.com/things/1GaRb6C6y1D-digital-circuit/editel?sharecode=Wcu5FQBIpxJf-AMztRshvzAtSjpGRWU2OKHe0BKlOJA
+  
+  - Analog circuit: the circuit read the temprature and display it on the screan
+    https://www.tinkercad.com/things/4B5hQH0hk08-neat-densor-gaaris/editel?sharecode=ZkQ5ULitVWeV_6-E3PIwF3ZiogBTQqvkadCaT79eQfk
 <!--
 **AhmedAEE/AhmedAEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
